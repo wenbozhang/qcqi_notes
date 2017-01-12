@@ -18,6 +18,12 @@
 </script>
 
 # Exercise 2.2
+$$
+  A=\begin{bmatrix}
+  0 & 1\\
+  1 & 0
+\end{bmatrix}
+$$
 
 $$
   A=\begin{bmatrix}
